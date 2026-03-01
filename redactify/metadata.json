@@ -1,0 +1,5 @@
+{
+  "name": "Redactify",
+  "description": "Automatically scan and redact sensitive information from screenshots before sharing.",
+  "requestFramePermissions": []
+}
